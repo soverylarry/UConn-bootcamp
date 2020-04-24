@@ -11,7 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
-header {
+header {  
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -47,7 +47,7 @@ p {
     font-size: 16px;
 }
 
-section {
+section {  /* this is the image that along with the header creates the bulk of the top third of the site */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -72,7 +72,7 @@ article {
     margin-left: 20px;
 }
 
-aside {
+aside { /*sidebar on right side of screen .benefits below size the images*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -101,7 +101,7 @@ aside {
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 50px;    /*these are the box and image details within the html articles that are in the lower left of the layout*/
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -117,7 +117,7 @@ aside {
     font-size: 36px;
 }
 
-footer {
+footer {  /*footer details*/
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
